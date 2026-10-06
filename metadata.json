@@ -1,0 +1,6 @@
+{
+  "name": "HiKANT - Philosophical Retreat in the Alps",
+  "description": "A 4-day collaborative philosophical retreat in Val Maira (Piedmont Alps) dedicated to reading Kant in an informal, communal mountain setting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
